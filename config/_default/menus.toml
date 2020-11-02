@@ -9,26 +9,11 @@
   weight = 10
 
 [[main]]
-  name = "People"
-  url = "#people"
+  name = "Publications"
+  url = "#publications"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
-
-[[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 40
-
-[[main]]
-  name = "Blogs"
+  name = "Posts"
   url = "#posts"
-  weight = 50
-  
-[[main]]
-  name = "Tags"
-  url = "#tags"
-  weight = 60
+  weight = 30

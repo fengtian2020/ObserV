@@ -1,16 +1,31 @@
 ---
+bio: 
 education:
   courses:
+  - course: Assistant Professor
+    institution: Wuhan University, China
+    year: 2020 - Now
+  - course: Postdoc researcher
+    institution: Lund University, Sweden
+    year: 2018 - 2020
+  - course: Postdoc
+    institution: University of Copenhagen, Denmark
+    year: 2016 - 2017
   - course: PhD in Geography
-    institution: University of Copenhagen
-    year: 2016
+    institution: University of Copenhagen, Denmark
+    year: 2013 - 2016
+  - course: Postgraduate
+    institution: China University of Mining and Technology
+    year: 2010 - 2013
+  - course: Bachelor in Geomatics
+    institution: Inner Mongolia Agricultural University, China
+    year: 2006- 2010
     
 email: "tian.feng@whu.edu.cn"
 
-# interests:
-# - Passive microwave
-# - vegetation
-# - Information Retrieval
+interests:
+- Remote sensing
+- Vegetation ecology
 
 organizations:
 - name: Wuhan University
@@ -33,3 +48,6 @@ user_groups:
 - Current team
 
 ---
+
+My passion on remote sensing has been ignited since I was a bachelor student. I just found it so amazing and cool to see the earth from space and fortunately developed my career in this research field. I'm grateful and lucky to get supports from so many extremely nice scientists from Denmark, France, Sweden, and China.
+
