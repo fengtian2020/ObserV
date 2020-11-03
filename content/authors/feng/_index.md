@@ -2,9 +2,6 @@
 bio: 
 education:
   courses:
-  - course: Assistant Professor
-    institution: Wuhan University, China
-    year: 2020 - Now
   - course: Postdoc researcher
     institution: Lund University, Sweden
     year: 2018 - 2020
@@ -49,5 +46,5 @@ user_groups:
 
 ---
 
-My passion on remote sensing has been ignited since I was a bachelor student. I just found it so amazing and cool to see the earth from space and fortunately developed my career in this research field. I'm grateful and lucky to get supports from so many extremely nice scientists from Denmark, France, Sweden, and China.
+My passion on remote sensing has been ignited since I was a bachelor student. I just found it so amazing and cool to see the earth from space and luckily developed my career in this research field. I'm very grateful to get supports from so many extremely nice scientists from Denmark, France, Sweden, and China.
 
