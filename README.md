@@ -1,1 +1,1 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/01a0f90b-c4ee-4cc0-af18-8910d3457968/deploy-status)](https://app.netlify.com/sites/observ-whu/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/069f7493-b49c-439b-b2dc-61fb93764227/deploy-status)](https://app.netlify.com/sites/observ-whu/deploys)
